@@ -1,0 +1,20 @@
+Usando os operadores necessários e as condicionais “if, eles e eles if” Responda as questões de 1 até 10:
+1)Verifique se um número é positivo ou negativo
+2)Verifique se um número é par ou ímpar:
+3)Classifique uma nota de 0 a 10, da seguinte forma: se for igual ou maior que 9 a nota é “A”, se for igual a 8 nota “B”, se for igual a 7 nota “C”, se for igual a 6 nota “D”, se for igual a 5 ou menor, nota “F”.
+4) Verifique se um ano é bissexto:
+5)Verifique se um número está entre 10 e 20:
+6)Determine o maior de dois números:
+7)Verifique se um caractere é uma vogal ou consoante:
+8)Verifique se um número é múltiplo de 3 ou 5:
+9)Determine a fase do dia com base na hora (0-23):
+10)Verifique se uma pessoa é maior de idade:
+11) Use Switch case para verificar o dia da semana (0 - Domingo, 1 - Segunda, etc.):
+12) Use Switch case para classificar uma fruta:
+13) Use Operador lógico AND (&&) para verificar se um número está entre 10 e 20:
+14) Use o operador ternário para verificar se uma pessoa pode votar (maior de 18 anos):
+15) Use Operador lógico OR (||) para verificar se uma pessoa é criança ou idosa:
+16) Use Switch case para verificar a estação do ano com base no mês:
+17) Use Operador ternário encadeado para classificar uma nota entre 0 e 10, da seguinte forma: se for
+igual ou maior que 9 a nota é “A”, se for igual a 8 nota “B”, se for igual a 7 nota “C”, se for igual a 6 nota
+“D”, se for igual a 5 ou menor, nota “F”.
